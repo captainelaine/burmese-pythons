@@ -38,6 +38,17 @@ body {
   margin: 0px;
   }
 
+  section .content {
+      font-family: 'Cardo', serif;
+      margin: 10px auto;
+      padding-top: 5%;
+      margin-bottom: 5%;
+      /*padding-left: 10%;*/
+      max-width: 100%;
+      line-height: 25px;
+      float: left;
+    }
+
 .homepage {
   max.width: 1000px;
   height: 100%;
@@ -286,16 +297,7 @@ section {
   width: 70%;*/
  }
 
-section .content {
-    font-family: 'Cardo', serif;
-    margin: 10px auto;
-    padding-top: 5%;
-    margin-bottom: 5%;
-    /*padding-left: 10%;*/
-    max-width: 100%;
-    line-height: 25px;
-    float: left;
-  }
+
 .scroll {
   height:auto;
 }
