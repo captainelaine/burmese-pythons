@@ -1,0 +1,131 @@
+@import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond);
+#mapwithwriting {
+  width:54%;
+  min-width: 650px;
+  margin-left: 15%;
+  margin-bottom: 2%;
+
+}
+.numberpy{
+  width:50%;
+  float: left;
+}
+
+#vis {
+  width: 50%:
+  float:left;
+  margin-left:38%;
+  margin-top: -2.1%;
+}
+
+#clearfloat {
+  clear:both;
+  width:50%;
+  min-width: 650px;
+  margin-left:15%;
+  margin-bottom: 2%;
+}
+
+#scrollmap {
+    margin-left: 15%;
+}
+
+#withpic {
+  width:48%;
+  min-width: 650px;
+  margin-left: 15%;
+  margin-bottom: 2%;
+}
+
+#pythonchallpic {
+  width: 48%;
+  float: right;
+  margin-top: 6%;
+  margin-bottom: 2%;
+  margin-left: 8%;
+  border: 1px solid lightgray;
+}
+
+#pythonchall {
+  width: 100%;
+}
+
+#pythonchallpic p {
+  margin-top:0%;
+  font-size: 8px;
+  color: gray;
+  text-align: center;
+}
+#strongem {
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+#introscroll {
+  width:50%;
+  min-width: 650px;
+  margin-left:15%;
+  margin-bottom: 2%;
+  font-size: 13px;
+  color: gray;
+  font-style: italic;
+}
+
+path.line{
+    fill: none;
+    stroke-width: 3px;
+    transition: 0.1s;
+    stroke:rgb(204,83,6);
+}
+.area{
+    fill:rgb(204,83,6);
+    transition: 0.1s;
+    stroke: none;
+    opacity: 0.6;
+}
+.county {
+  stroke: #fff;
+  stroke-width: .5px;
+}
+
+.state {
+  stroke: #fff;
+  fill: none;
+}
+
+.selected{
+  background: #ccc;
+}
+
+
+.maptooltip {
+    position: absolute;
+    z-index: 10;
+    text-align: left;
+    width: 200px;
+    padding: 10px;
+    font-size: 10px;
+    font-family: Helvetica, sans-serif;
+    background: #ffffff;
+    pointer-events: none;
+    opacity: 1;
+    border: #ccc 1px solid;
+}
+.name {
+  font-size: 14px; margin: 0 0 7px 0;
+  line-height: 1.2em;
+  color:rgb(204,83,6);
+}
+
+.val {
+
+  font-size: 20px;
+  font-weight: bolder;
+  color:rgb(204,83,6);
+}
+.number {
+  font-size: 14px; margin: 0 0 7px 0;
+  /*line-height: 1.2em;*/
+  color:rgb(204,83,6);
+}

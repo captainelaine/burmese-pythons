@@ -1,0 +1,277 @@
+ISO,Country,Year,Win,Winner,Team
+AUS,Australia,2000,Wins by Ferrari,Michael Schumacher,Ferrari
+AUS,Australia,2001,Wins by Ferrari,Michael Schumacher,Ferrari
+AUS,Australia,2002,Wins by Ferrari,Michael Schumacher,Ferrari
+AUS,Australia,2003,Wins by other teams,David Coulthard,McLaren
+AUS,Australia,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+AUS,Australia,2005,Wins by other teams,Giancarlo Fisichella ,Renault
+AUS,Australia,2006,Wins by other teams,Fernando Alonso,Renault
+AUS,Australia,2007,Wins by Ferrari,Kimi Raikkonen,Ferrari
+AUS,Australia,2008,Wins by other teams,Lewis Hamiliton,McLaren
+AUS,Australia,2009,Wins by other teams,Jenson Button,Brawn
+AUS,Australia,2010,Wins by other teams,Jeson Button,McLaren
+AUS,Australia,2011,Wins by other teams,Sebastian Vettel,Red Bull
+AUS,Australia,2012,Wins by other teams,Jenson Button,McLaren
+AUS,Australia,2013,Wins by other teams,Kimi Raikkonen,Lotus
+AUS,Australia,2014,Wins by other teams,Nico Rosberg,Mercedes
+AUS,Australia,2015,Wins by other teams,Lewis Hamiliton,Mercedes
+BRA,Brazil,2000,Wins by Ferrari,Michael Schumacher,Ferrari
+BRA,Brazil,2001,Wins by other teams,David Coulthard,McLaren
+BRA,Brazil,2002,Wins by Ferrari,Michael Schumacher,Ferrari
+BRA,Brazil,2003,Wins by other teams,Giancarlo Fisichella,Jordan
+BRA,Brazil,2004,Wins by other teams,Juan Pablo Montoya,Williams
+BRA,Brazil,2005,Wins by other teams,Juan Pablo Montoya,McLaren
+BRA,Brazil,2006,Wins by Ferrari,Felipe Massa,Ferrari
+BRA,Brazil,2007,Wins by Ferrari,Kimi Raikkonen,Ferrari
+BRA,Brazil,2008,Wins by Ferrari,Felipe Massa,Ferrari
+BRA,Brazil,2009,Wins by other teams,Mark Webber,Red Bull
+BRA,Brazil,2010,Wins by other teams,Sebastian Vettel,Red Bull
+BRA,Brazil,2011,Wins by other teams,Mark Webber,Red Bull
+BRA,Brazil,2012,Wins by other teams,Jenson Button,McLaren
+BRA,Brazil,2013,Wins by other teams,Sebastian Vettel,Red Bull
+BRA,Brazil,2014,Wins by other teams,Nico Rosberg,Mercedes
+BRA,Brazil,2015,Wins by other teams,Nico Rosberg,Mercedes
+SMR,San Marino,2000,Wins by Ferrari,Michael Schumacher,Ferrari
+SMR,San Marino,2001,Wins by other teams,Ralf Schumacher,Williams
+SMR,San Marino,2002,Wins by Ferrari,Michael Schumacher,Ferrari
+SMR,San Marino,2003,Wins by Ferrari,Michael Schumacher,Ferrari
+SMR,San Marino,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+SMR,San Marino,2005,Wins by other teams,Fernando Alonso,Renault
+SMR,San Marino,2006,Wins by Ferrari,Michael Schumacher,Ferrari
+GBR,United Kingdom,2000,Wins by other teams,David Coulthard,McLaren
+GBR,United Kingdom,2001,Wins by other teams,Ralf Schumacher,Williams
+GBR,United Kingdom,2002,Wins by Ferrari,Michael Schumacher,Ferrari
+GBR,United Kingdom,2003,Wins by Ferrari,Rubens Barrichello,Ferrari
+GBR,United Kingdom,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+GBR,United Kingdom,2005,Wins by other teams,Fernando Alonso,Renault
+GBR,United Kingdom,2006,Wins by other teams,Fernando Alonso,Renault
+GBR,United Kingdom,2007,Wins by Ferrari,Kimi Raikkonen,Ferrari
+GBR,United Kingdom,2008,Wins by other teams,Lewis Hamiliton,McLaren
+GBR,United Kingdom,2009,Wins by other teams,Sebastian Vettel,Red Bull
+GBR,United Kingdom,2010,Wins by other teams,Mark Webber,Red Bull
+GBR,United Kingdom,2011,Wins by Ferrari,Fernando Alonso,Ferrari
+GBR,United Kingdom,2012,Wins by other teams,Mark Webber,Red Bull
+GBR,United Kingdom,2013,Wins by other teams,Nico Rosberg,Mercedes
+GBR,United Kingdom,2014,Wins by other teams,Lewis Hamiliton,Mercedes
+GBR,United Kingdom,2015,Wins by other teams,Lewis Hamiliton,Mercedes
+ESP,Spain,2000,Wins by other teams,Mika Hakkinen,McLaren
+ESP,Spain,2001,Wins by Ferrari,Michael Schumacher,Ferrari
+ESP,Spain,2002,Wins by Ferrari,Michael Schumacher,Ferrari
+ESP,Spain,2003,Wins by Ferrari,Michael Schumacher,Ferrari
+ESP,Spain,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+ESP,Spain,2005,Wins by other teams,Kimi Raikkonen,McLaren
+ESP,Spain,2006,Wins by other teams,Fernando Alonso,Renault
+ESP,Spain,2007,Wins by Ferrari,Felipe Massa,Ferrari
+ESP,Spain,2008,Wins by Ferrari,Kimi Raikkonen,Ferrari
+ESP,Spain,2009,Wins by other teams,Jenson Button,Brawn
+ESP,Spain,2010,Wins by other teams,Mark Webber,Red Bull
+ESP,Spain,2011,Wins by other teams,Sebastian Vettel,Red Bull
+ESP,Spain,2012,Wins by other teams,Mark Webber,Red Bull
+ESP,Spain,2013,Wins by Ferrari,Fernando Alonso,Ferrari
+ESP,Spain,2014,Wins by other teams,Lewis Hamiliton,Mercedes
+ESP,Spain,2015,Wins by other teams,Nico Rosberg,Mercedes
+MCO,Monaco,2000,Wins by other teams,David Coulthard,McLaren
+MCO,Monaco,2001,Wins by Ferrari,Michael Schumacher,Ferrari
+MCO,Monaco,2002,Wins by other teams,David Coulthard,McLaren
+MCO,Monaco,2003,Wins by other teams,Juan Pablo Montoya,Williams
+MCO,Monaco,2004,Wins by other teams,Jarno Trulli ,Renault
+MCO,Monaco,2005,Wins by other teams,Kimi Raikkonen,McLaren
+MCO,Monaco,2006,Wins by other teams,Fernando Alonso,Renault
+MCO,Monaco,2007,Wins by other teams,Fernando Alonso,McLaren
+MCO,Monaco,2008,Wins by other teams,Lewis Hamiliton,McLaren
+MCO,Monaco,2009,Wins by other teams,Jenson Button,Brawn
+MCO,Monaco,2010,Wins by other teams,Mark Webber,Red Bull
+MCO,Monaco,2011,Wins by other teams,Sebastian Vettel,Red Bull
+MCO,Monaco,2012,Wins by other teams,Mark Webber,Red Bull
+MCO,Monaco,2013,Wins by other teams,Nico Rosberg,Mercedes
+MCO,Monaco,2014,Wins by other teams,Nico Rosberg,Mercedes
+MCO,Monaco,2015,Wins by other teams,Nico Rosberg,Mercedes
+CAN,Canada,2000,Wins by Ferrari,Michael Schumacher,Ferrari
+CAN,Canada,2001,Wins by other teams,Ralf Schumacher,Williams
+CAN,Canada,2002,Wins by Ferrari,Michael Schumacher,Ferrari
+CAN,Canada,2003,Wins by Ferrari,Michael Schumacher,Ferrari
+CAN,Canada,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+CAN,Canada,2005,Wins by other teams,Kimi Raikkonen,McLaren
+CAN,Canada,2006,Wins by other teams,Fernando Alonso,Renault
+CAN,Canada,2007,Wins by other teams,Lewis Hamilton,McLaren
+CAN,Canada,2008,Wins by other teams,Robert Kubica,BMW
+CAN,Canada,2010,Wins by other teams,Lewis Hamiliton,McLaren
+CAN,Canada,2011,Wins by other teams,Jenson Button,McLaren
+CAN,Canada,2012,Wins by other teams,Lewis Hamiliton,McLaren
+CAN,Canada,2013,Wins by other teams,Sebastian Vettel,Red Bull
+CAN,Canada,2014,Wins by other teams,Daniel Ricciardo,Red Bull
+CAN,Canada,2015,Wins by other teams,Lewis Hamiliton,Mercedes
+FRA,France,2000,Wins by other teams,David Coulthard,McLaren
+FRA,France,2001,Wins by Ferrari,Michael Schumacher,Ferrari
+FRA,France,2002,Wins by Ferrari,Michael Schumacher,Ferrari
+FRA,France,2003,Wins by other teams,Ralf Schumacher,Williams
+FRA,France,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+FRA,France,2005,Wins by other teams,Juan Pablo Montoya,McLaren
+FRA,France,2006,Wins by Ferrari,Michael Schumacher,Ferrari
+FRA,France,2007,Wins by Ferrari,Kimi Raikkonen,Ferrari
+FRA,France,2008,Wins by Ferrari,Felipe Massa,Ferrari
+AUT,Austria,2000,Wins by other teams,Mika Hakkinen,McLaren
+AUT,Austria,2001,Wins by other teams,David Coulthard,Williams
+AUT,Austria,2002,Wins by Ferrari,Michael Schumacher,Ferrari
+AUT,Austria,2003,Wins by Ferrari,Michael Schumacher,Ferrari
+AUT,Austria,2014,Wins by other teams,Nico Rosberg,Mercedes
+AUT,Austria,2015,Wins by other teams,Nico Rosberg,Mercedes
+DEU,Germany,2000,Wins by other teams,David Coulthard,McLaren
+DEU,Germany,2001,Wins by other teams,Ralf Schumacher,Williams
+DEU,Germany,2002,Wins by Ferrari,Michael Schumacher,Ferrari
+DEU,Germany,2003,Wins by other teams,Juan Pablo Montoya,Williams
+DEU,Germany,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+DEU,Germany,2005,Wins by other teams,Fernando Alonso,Renault
+DEU,Germany,2006,Wins by Ferrari,Michael Schumacher,Ferrari
+DEU,Germany,2008,Wins by other teams,Lewis Hamiliton,McLaren
+DEU,Germany,2009,Wins by other teams,Mark Webber,Red Bull
+DEU,Germany,2010,Wins by Ferrari,Fernando Alonso,Ferrari
+DEU,Germany,2011,Wins by other teams,Lewis Hamiliton,McLaren
+DEU,Germany,2012,Wins by Ferrari,Fernando Alonso,Ferrari
+DEU,Germany,2013,Wins by other teams,Sebastian Vettel,Red Bull
+DEU,Germany,2014,Wins by other teams,Nico Rosberg,Mercedes
+HUN,Hungary,2000,Wins by other teams,Mika Hakkinen,McLaren
+HUN,Hungary,2001,Wins by Ferrari,Michael Schumacher,Ferrari
+HUN,Hungary,2002,Wins by Ferrari,Rubens Barrichello,Ferrari
+HUN,Hungary,2003,Wins by other teams,Fernando Alonso,Renault
+HUN,Hungary,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+HUN,Hungary,2005,Wins by other teams,Kimi Raikkonen,McLaren
+HUN,Hungary,2006,Wins by other teams,Jenson Button,Honda
+HUN,Hungary,2007,Wins by other teams,Lewis Hamilton,McLaren
+HUN,Hungary,2008,Wins by other teams,Heikki Kovalainen,McLaren
+HUN,Hungary,2009,Wins by other teams,Lewis Hamiliton,McLaren
+HUN,Hungary,2010,Wins by other teams,Mark Webber,Red Bull
+HUN,Hungary,2011,Wins by other teams,Jenson Button,McLaren
+HUN,Hungary,2012,Wins by other teams,Lewis Hamiliton,McLaren
+HUN,Hungary,2013,Wins by other teams,Lewis Hamiliton,Mercedes
+HUN,Hungary,2014,Wins by other teams,Daniel Ricciardo,Red Bull
+HUN,Hungary,2015,Wins by Ferrari,Sebastian Vettel,Ferrari
+BEL,Belgium,2000,Wins by other teams,Mika Hakkinen,McLaren
+BEL,Belgium,2001,Wins by Ferrari,Michael Schumacher,Ferrari
+BEL,Belgium,2002,Wins by Ferrari,Michael Schumacher,Ferrari
+BEL,Belgium,2004,Wins by other teams,Kimi Raikkonen,McLaren
+BEL,Belgium,2005,Wins by other teams,Fernando Alonso,Renault
+BEL,Belgium,2007,Wins by Ferrari,Kimi Raikkonen,Ferrari
+BEL,Belgium,2008,Wins by Ferrari,Felipe Massa,Ferrari
+BEL,Belgium,2009,Wins by Ferrari,Kimi Raikkonen,Ferrari
+BEL,Belgium,2010,Wins by other teams,Lewis Hamiliton,McLaren
+BEL,Belgium,2011,Wins by other teams,Sebastian Vettel,Red Bull
+BEL,Belgium,2012,Wins by other teams,Jenson Button,McLaren
+BEL,Belgium,2013,Wins by other teams,Sebastian Vettel,Red Bull
+BEL,Belgium,2014,Wins by other teams,Daniel Ricciardo,Red Bull
+BEL,Belgium,2015,Wins by other teams,Lewis Hamiliton,Mercedes
+ITA,Italy,2000,Wins by Ferrari,Michael Schumacher,Ferrari
+ITA,Italy,2001,Wins by other teams,Juan Pablo Montoya,Williams
+ITA,Italy,2002,Wins by Ferrari,Rubens Barrichello,Ferrari
+ITA,Italy,2003,Wins by Ferrari,Michael Schumacher,Ferrari
+ITA,Italy,2004,Wins by Ferrari,Rubens Barrichello,Ferrari
+ITA,Italy,2005,Wins by other teams,Juan Pablo Montoya,McLaren
+ITA,Italy,2006,Wins by Ferrari,Michael Schumacher,Ferrari
+ITA,Italy,2007,Wins by other teams,Fernando Alonso,McLaren
+ITA,Italy,2008,Wins by other teams,Sebastian Vettel ,Toro Rosso
+ITA,Italy,2009,Wins by other teams,Rubens Barrichello,Brawn
+ITA,Italy,2010,Wins by Ferrari,Fernando Alonso,Ferrari
+ITA,Italy,2011,Wins by other teams,Sebastian Vettel,Red Bull
+ITA,Italy,2012,Wins by other teams,Lewis Hamiliton,McLaren
+ITA,Italy,2013,Wins by other teams,Sebastian Vettel,Red Bull
+ITA,Italy,2014,Wins by other teams,Lewis Hamiliton,Mercedes
+ITA,Italy,2015,Wins by other teams,Lewis Hamiliton,Mercedes
+USA,United States,2000,Wins by Ferrari,Michael Schumacher,Ferrari
+USA,United States,2001,Wins by other teams,Mika Hakkine,Williams
+USA,United States,2002,Wins by Ferrari,Rubens Barrichello,Ferrari
+USA,United States,2003,Wins by Ferrari,Michael Schumacher,Ferrari
+USA,United States,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+USA,United States,2005,Wins by Ferrari,Michael Schumacher,Ferrari
+USA,United States,2006,Wins by Ferrari,Michael Schumacher,Ferrari
+USA,United States,2007,Wins by other teams,Lewis Hamilton,McLaren
+USA,United States,2012,Wins by other teams,Lewis Hamilton,McLaren
+USA,United States,2013,Wins by other teams,Sebastian Vettel,Red Bull
+USA,United States,2014,Wins by other teams,Lewis Hamiliton,Mercedes
+USA,United States,2015,Wins by other teams,Lewis Hamiliton,Mercedes
+JPN,Japan,2000,Wins by Ferrari,Michael Schumacher,Ferrari
+JPN,Japan,2001,Wins by Ferrari,Michael Schumacher,Ferrari
+JPN,Japan,2002,Wins by Ferrari,Michael Schumacher,Ferrari
+JPN,Japan,2003,Wins by Ferrari,Rubens Barrichello,Ferrari
+JPN,Japan,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+JPN,Japan,2005,Wins by other teams,Kimi Raikkonen,McLaren
+JPN,Japan,2006,Wins by other teams,Fernando Alonso,Renault
+JPN,Japan,2007,Wins by other teams,Lewis Hamilton,McLaren
+JPN,Japan,2008,Wins by other teams,Fernando Alonso,Renault
+JPN,Japan,2009,Wins by other teams,Sebastian Vettel,Red Bull
+JPN,Japan,2010,Wins by other teams,Sebastian Vettel,Red Bull
+JPN,Japan,2011,Wins by other teams,Jenson Button,McLaren
+JPN,Japan,2012,Wins by other teams,Sebastian Vettel,Red Bull
+JPN,Japan,2013,Wins by other teams,Sebastian Vettel,Red Bull
+JPN,Japan,2014,Wins by other teams,Lewis Hamiliton,Mercedes
+JPN,Japan,2015,Wins by other teams,Lewis Hamiliton,Mercedes
+MYS,Malaysia,2000,Wins by Ferrari,Michael Schumacher,Ferrari
+MYS,Malaysia,2001,Wins by Ferrari,Michael Schumacher,Ferrari
+MYS,Malaysia,2002,Wins by other teams,Ralf Schumacher,Williams
+MYS,Malaysia,2003,Wins by other teams,Kimi Raikkonen,McLaren
+MYS,Malaysia,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+MYS,Malaysia,2005,Wins by other teams,Fernando Alonso,Renault
+MYS,Malaysia,2006,Wins by other teams,Giancarlo Fisichella,Renault
+MYS,Malaysia,2007,Wins by other teams,Fernando Alonso,McLaren
+MYS,Malaysia,2008,Wins by Ferrari,Kimi Raikkonen,Ferrari
+MYS,Malaysia,2009,Wins by other teams,Jenson Button,Brawn
+MYS,Malaysia,2010,Wins by other teams,Sebastian Vettel,Red Bull
+MYS,Malaysia,2011,Wins by other teams,Sebastian Vettel,Red Bull
+MYS,Malaysia,2012,Wins by Ferrari,Fernando Alonso,Ferrari
+MYS,Malaysia,2013,Wins by other teams,Sebastian Vettel,Red Bull
+MYS,Malaysia,2014,Wins by other teams,Lewis Hamiliton,Mercedes
+MYS,Malaysia,2015,Wins by Ferrari,Sebastian Vettel,Ferrari
+BHR,Bahrain,2004,Wins by Ferrari,Michael Schumacher,Ferrari
+BHR,Bahrain,2005,Wins by other teams,Kimi Raikkonen,McLaren
+BHR,Bahrain,2006,Wins by other teams,Fernando Alonso,Renault
+BHR,Bahrain,2007,Wins by Ferrari,Felipe Massa,Ferrari
+BHR,Bahrain,2008,Wins by Ferrari,Felipe Massa,Ferrari
+BHR,Bahrain,2009,Wins by other teams,Jenson Button,Brawn
+BHR,Bahrain,2010,Wins by Ferrari,Fernando Alonso,Ferrari
+BHR,Bahrain,2012,Wins by other teams,Sebastian Vettel,Red Bull
+BHR,Bahrain,2013,Wins by other teams,Sebastian Vettel,Red Bull
+BHR,Bahrain,2014,Wins by other teams,Lewis Hamiliton,Mercedes
+BHR,Bahrain,2015,Wins by other teams,Lewis Hamiliton,Mercedes
+CHN,China,2004,Wins by Ferrari,Rubens Barrichello,Ferrari
+CHN,China,2005,Wins by other teams,Fernando Alonso,Renault
+CHN,China,2006,Wins by Ferrari,Michael Schumacher,Ferrari
+CHN,China,2007,Wins by Ferrari,Kimi Raikkonen,Ferrari
+CHN,China,2008,Wins by other teams,Lewis Hamiliton,McLaren
+CHN,China,2009,Wins by other teams,Sebastian Vettel,Red Bull
+CHN,China,2010,Wins by other teams,Jeson Button,McLaren
+CHN,China,2011,Wins by other teams,Lewis Hamiliton,McLaren
+CHN,China,2012,Wins by other teams,Nico Rosberg,Mercedes
+CHN,China,2013,Wins by Ferrari,Fernando Alonso,Ferrari
+CHN,China,2014,Wins by other teams,Lewis Hamiliton,Mercedes
+CHN,China,2015,Wins by other teams,Lewis Hamiliton,Mercedes
+TUR,Turkey,2005,Wins by other teams,Kimi Raikkonen,McLaren
+TUR,Turkey,2006,Wins by Ferrari,Michael Schumacher,Ferrari
+TUR,Turkey,2007,Wins by Ferrari,Felipe Massa,Ferrari
+TUR,Turkey,2008,Wins by Ferrari,Felipe Massa,Ferrari
+TUR,Turkey,2009,Wins by other teams,Jenson Button,Brawn
+TUR,Turkey,2010,Wins by other teams,Lewis Hamiliton,McLaren
+TUR,Turkey,2011,Wins by other teams,Sebastian Vettel,Red Bull
+SGP,Singapo,2008,Wins by other teams,Fernando Alonso,Renault
+SGP,Singapo,2009,Wins by other teams,Lewis Hamiliton,McLaren
+SGP,Singapo,2010,Wins by Ferrari,Fernando Alonso,Ferrari
+SGP,Singapo,2011,Wins by other teams,Sebastian Vettel,Red Bull
+SGP,Singapo,2012,Wins by other teams,Sebastian Vettel,Red Bull
+SGP,Singapo,2013,Wins by other teams,Sebastian Vettel,Red Bull
+SGP,Singapo,2014,Wins by other teams,Lewis Hamiliton,Mercedes
+SGP,Singapo,2015,Wins by Ferrari,Sebastian Vettel,Ferrari
+KOR,Korea,2010,Wins by Ferrari,Fernando Alonso,Ferrari
+KOR,Korea,2011,Wins by other teams,Sebastian Vettel,Red Bull
+KOR,Korea,2012,Wins by other teams,Sebastian Vettel,Red Bull
+KOR,Korea,2013,Wins by other teams,Sebastian Vettel,Red Bull
+ARE,United Arab Emirates,2009,Wins by other teams,Sebastian Vettel,Red Bull
+ARE,United Arab Emirates,2010,Wins by other teams,Sebastian Vettel,Red Bull
+ARE,United Arab Emirates,2011,Wins by other teams,Lewis Hamiliton,McLaren
+ARE,United Arab Emirates,2012,Wins by other teams,Kimi Raikkonen,Lotus
+ARE,United Arab Emirates,2013,Wins by other teams,Sebastian Vettel,Red Bull
+ARE,United Arab Emirates,2014,Wins by other teams,Lewis Hamiliton,Mercedes
+ARE,United Arab Emirates,2015,Wins by other teams,Nico Rosberg,Mercedes
+IND,India,2011,Wins by other teams,Sebastian Vettel,Red Bull
+IND,India,2012,Wins by other teams,Sebastian Vettel,Red Bull
+IND,India,2013,Wins by other teams,Sebastian Vettel,Red Bull
+RUS,Russia,2014,Wins by other teams,Lewis Hamiliton,Mercedes
+RUS,Russia,2015,Wins by other teams,Lewis Hamiliton,Mercedes
+MEX,Mexico,2015,Wins by other teams,Nico Rosberg,Mercedes
