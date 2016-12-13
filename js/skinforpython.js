@@ -19,13 +19,14 @@ var lineyScale = d3.scale.linear()
 var linexAxis = d3.svg.axis()
         .scale(linexScale)
         .orient("bottom")
-        .ticks(15)
+        .ticks(10)
         .tickFormat(function(d) {
           return dateFormat(d);
         });
 
 var lineyAxis = d3.svg.axis()
         .scale(lineyScale)
+        .ticks(5)
         .orient("left");
 
 
