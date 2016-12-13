@@ -415,6 +415,7 @@ section {
   width: 50%;
   min-width: 650px;
   margin-left: 15%;
+  max-width: 800px;
 }
 .linechartintro {
   width: 70%;
