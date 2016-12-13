@@ -6,6 +6,8 @@
 @import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond);
 @import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono);
 @import url(https://fonts.googleapis.com/css?family=Taviraj);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
 
 .bounce {
   position:absolute;
@@ -38,24 +40,26 @@ body {
   margin: 0px;
   }
 
-  section .content {
-      font-family: 'Cardo', serif;
-      margin: 10px auto;
-      padding-top: 5%;
-      margin-bottom: 5%;
-      /*padding-left: 10%;*/
-      max-width: 100%;
-      line-height: 25px;
-      float: left;
-    }
+section .content {
+    font-family: 'Cardo', serif;
+    margin: 10px auto;
+    padding-top: 5%;
+    margin-bottom: 5%;
+    /*padding-left: 10%;*/
+    max-width: 100%;
+    line-height: 25px;
+    float: left;
+  }
 
-.homepage {
-  max.width: 1000px;
-  height: 100%;
-  position: relative;
+.homepageimg {
+  background: url(../image/homepage1.jpg) no-repeat center;
+  background-size: cover;
+  width: 100%;
+  height:100%;
+  background-attachment: fixed;
 }
 
-.slide1,.slide2,.slide3 {
+/*.slide1,.slide2,.slide3 {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -83,37 +87,49 @@ body {
   animation: fade3 30s infinite;
   -webkit-animation: fade3 25s infinite;
   background-attachment: fixed;
-}
+}*/
 
 h3 {
- left:1%;
- top:50%;
+ left:3%;
+ top:45%;
  z-index: 1000;
- font-family: 'Abril Fatface', cursive;
- font-size: 70px;
+ font-family: 'Lato', cursive;
+ font-size: 80px;
  position: absolute;
- color:black;
- text-shadow: 5px 5px white;
+ color:white;
+ margin-top: 5%;
+ text-shadow:5px 5px 10px black;
+ min-width: 100px;
+}
+h5 {
+ left:3%;
+ top:56%;
+ z-index: 1000;
+ font-family: 'Lato', cursive;
+ font-size: 80px;
+ position: absolute;
+ color:white;
+ margin-top: 5%;
+ text-shadow:5px 5px 10px black;
+ min-width: 100px;
 }
 
 h4 {
-  left:1%;
-  width: 45%;
-  top: 65%;
+  left:3%;
+  width: 50%;
   z-index: 1000;
-  font-size: 25px;
-  font-family: 'Abril Fatface', cursive;
+  font-size: 77px;
+  font-family: 'Lato', cursive;
   position: absolute;
-  color:black;
+  color:white;
   font-weight: 2000;
-  text-shadow: 5px 5px white;
+  text-shadow:5px 5px 10px black;
 }
 
 #h42 {
-  top: 65%;
-  font-size: 46px;
-  left:4.5%;
-  font-weight: 2000;
+  top: 64%;
+  left:3%;
+  min-width: 800px;
   /*text-align: center;*/
 }
 
@@ -264,7 +280,6 @@ nav li a {
   font-size: 19px;
   color: black;
   font-weight: bolder;
-  font-family: 'Bree Serif', sans-serif;
   border-bottom: solid 2.5px none;
 }
 
@@ -308,6 +323,7 @@ section {
   margin-top: 1%;
   margin-left: 15%;
   margin-bottom: 2%;
+  max-width: 800px;
 }
 
 #about {
@@ -315,7 +331,6 @@ section {
 }
 .largeimage {
   width: 100%;
-  border: 1px solid lightgray
 
 }
 .largeimage p {
@@ -330,6 +345,7 @@ section {
   min-width: 650px;
   margin-left: 15%;
   margin-bottom: 2%;
+  max-width: 800px;
 }
 /*#asiamap {
   margin-left: 30%;
@@ -397,7 +413,7 @@ section {
 .insidewriting {
   padding-top:40%;
   width: 50%;
-    min-width: 650px;
+  min-width: 650px;
   margin-left: 15%;
 }
 .linechartintro {
@@ -413,6 +429,7 @@ section {
   width: 50%;
   min-width: 650px;
   margin-left: 15%;
+  max-width: 800px;
 }
 
 .animatednumber {
@@ -506,7 +523,7 @@ section {
 }
 
 #opiniontitle {
-  width: 35%;
+  /*width: 35%;*/
   /*z-index:100;*/
   font-family: 'Abril Fatface', cursive;
   font-size: 50px;
@@ -515,7 +532,8 @@ section {
   line-height: 70px;
   position: relative;
   top: 50%;
-  left: 50%;
+  margin-right: 5%;
+  float:right;
   text-shadow: 2px 2px white;
 }
 
@@ -529,6 +547,7 @@ section {
   min-width: 650px;
   margin-left: 15%;
   margin-bottom: 2%;
+  max-width: 800px;
 
 }
 
@@ -547,6 +566,7 @@ section {
   min-width: 650px;
   margin-left: 15%;
   margin-bottom: 2%;
+  max-width: 800px;
 }
 
 #Leopic {
@@ -613,6 +633,7 @@ section {
 #Joe {
   width:47%;
   min-width: 650px;
+  max-width: 800px;
   margin-left: 15%;
   margin-bottom: 2%;
 }
@@ -692,11 +713,11 @@ section {
 }
 
 #me {
- padding-top: 11%;
+ /*padding-top: 11%;*/
   width:100%;
   min-width: 600px;
   text-align: center;
-  border-top: lightgray solid 2px;
+
 
 }
 
@@ -707,7 +728,7 @@ section {
 }
 
 #zhou {
-  width: 50%;
+  width: 80%;
   border-radius: 50%;
 
 }
@@ -724,4 +745,19 @@ section {
 video {
   width: 100%;
   height: 56%;
+}
+
+#infoleft {
+  margin-top: 7%;
+  float:left;
+  width: 45%;
+}
+#infopy {
+  /*margin-top: 2%;*/
+  width: 55%;
+  float:right;
+}
+
+#infofinal {
+    border-top: lightgray solid 2px;
 }
