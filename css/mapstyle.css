@@ -4,6 +4,7 @@
   min-width: 650px;
   margin-left: 15%;
   margin-bottom: 2%;
+  max-width: 800px;
 
 }
 .numberpy{
@@ -16,6 +17,7 @@
   float:left;
   margin-left:38%;
   margin-top: -2.1%;
+
 }
 
 #clearfloat {
@@ -24,6 +26,7 @@
   min-width: 650px;
   margin-left:15%;
   margin-bottom: 2%;
+  max-width: 800px;
 }
 
 #scrollmap {
@@ -35,6 +38,7 @@
   min-width: 650px;
   margin-left: 15%;
   margin-bottom: 2%;
+  max-width: 800px;
 }
 
 #pythonchallpic {
@@ -70,6 +74,7 @@
   font-size: 13px;
   color: gray;
   font-style: italic;
+  max-width: 800px;
 }
 
 path.line{
