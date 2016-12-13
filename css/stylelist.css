@@ -104,12 +104,13 @@ h3 {
 }
 h5 {
  left:3%;
- top:45%;
+ top:60%;
  z-index: 1000;
  font-family: 'Lato', cursive;
  font-size: 80px;
  position: absolute;
  color:white;
+  margin-top: 2%;
  text-shadow:5px 5px 10px black;
  min-width: 100px;
 }
