@@ -731,7 +731,7 @@ section {
 }
 
 #zhou {
-  width: 80%;
+  width: 100%;
   border-radius: 50%;
 
 }
@@ -763,4 +763,14 @@ video {
 
 #infofinal {
     border-top: lightgray solid 2px;
+}
+
+#legend {
+  width: 100%;
+  /*height: 20%;*/
+  margin-bottom: 3%;
+}
+
+#legenddiv {
+  width: 10%;
 }

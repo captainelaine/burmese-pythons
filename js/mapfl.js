@@ -28,7 +28,7 @@ var idLookup = d3.map();
 var ttfh = 120;
 var ttfw = 200;
 
-var margin = {top:30, bottom:30,left:40,right:35};
+var margin = {top:20, bottom:30,left:40,right:35};
 
 var tth = ttfh - margin.top - margin.bottom;
 var ttw = ttfw - margin.left - margin.right;
@@ -39,8 +39,8 @@ var yAxis = d3.svg.axis()
    .scale(yScale)
    .orient("left")
   //  .tickFormat(d3.format("s"))
-   .ticks(3)
-   .tickPadding([3])
+   .ticks(1)
+   .tickPadding([1])
    .tickSize([0]);
 
 var line = d3.svg.line()
@@ -99,8 +99,8 @@ function loaded(error, us, data) {
   console.log(number);
 
   var colorScale = d3.scale.linear()
-    .domain([0,5,10,200,500,2100])
-    .range(["#E9FFD2", "rgb(185,229,119)"])
+    .domain([0,70,100,200,2100])
+    .range(["#E9FFD2", "rgb(122,200,124)"]).interpolate(d3.interpolateLab);
 
 
   console.log('Extent is ', d3.extent(number));
@@ -127,6 +127,14 @@ function loaded(error, us, data) {
       .on("mouseover", mouseover)
       .on("mousemove", mousemove)
       .on("mouseout", mouseout);
+
+    svg.append('image')
+    .attr('xlink:href','../image/legend1.png')
+    .attr("transform", "translate(" + (linemargin.left-40) + " ," +
+                       (linemargin.bottom*4) + ")")
+    .attr('class', 'pico')
+    .attr('height', '150')
+    .attr('width', '150');
 
   svg.append("text")
      .attr("class","hoverinfo")
@@ -155,6 +163,8 @@ function loaded(error, us, data) {
     .style("fill","gray")
     .style("font-style","italic")
     .text("Hover for more information");
+
+
 //below is tooltip chart
       var years = d3.keys(data[0]).filter(function(d){
         return d.startsWith("1") || d.startsWith("2");
