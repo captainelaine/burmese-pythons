@@ -128,13 +128,13 @@ function loaded(error, us, data) {
       .on("mousemove", mousemove)
       .on("mouseout", mouseout);
 
-    svg.append('image')
-    .attr('xlink:href','../image/legend1.png')
-    .attr("transform", "translate(" + (linemargin.left-40) + " ," +
-                       (linemargin.bottom*4) + ")")
-    .attr('class', 'pico')
-    .attr('height', '150')
-    .attr('width', '150');
+      svg.append('image')
+      .attr('xlink:href','../image/legend1.png')
+      .attr("transform", "translate(" + (linemargin.left-40) + " ," +
+                         (linemargin.bottom*4) + ")")
+      .attr('class', 'pico')
+      .attr('height', '150')
+      .attr('width', '150');
 
   svg.append("text")
      .attr("class","hoverinfo")
