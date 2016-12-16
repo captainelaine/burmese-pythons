@@ -402,6 +402,23 @@ section {
   transition: all 2s ease;
 }
 
+#fenjie4 {
+  position: absolute;
+  width: 5%;
+  z-index: 3;
+  left: 44%;
+  padding-top: 30%;
+  cursor: pointer;
+  transition: all 4s ease;
+}
+
+/*@keyframes MoveUpDown {
+  0%       { bottom:-29%; }
+  25%, 75% { bottom:-28%; }
+  50%      { bottom:-27%; }
+  100%     {bottom:-30%;}
+}*/
+
 #clickfont {
   clear: both;
   padding-top: 2%;
