@@ -129,7 +129,7 @@ function loaded(error, us, data) {
       .on("mouseout", mouseout);
 
       svg.append('image')
-      .attr('xlink:href','../image/legend1.png')
+      .attr('xlink:href','../image/legendformap.png')
       .attr("transform", "translate(" + (linemargin.left-40) + " ," +
                          (linemargin.bottom*4) + ")")
       .attr('class', 'pico')
