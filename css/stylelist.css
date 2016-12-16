@@ -419,6 +419,18 @@ section {
   100%     {bottom:-30%;}
 }*/
 
+#introtoinside {
+  clear: both;
+  width:50%;
+  min-width: 650px;
+  margin-left: 15%;
+  margin-bottom: 2%;
+  max-width: 800px;
+  font-style:italic;
+  color: gray;
+
+}
+
 #clickfont {
   clear: both;
   padding-top: 2%;
