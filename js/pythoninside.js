@@ -18,7 +18,8 @@ topskinlayer[3].addEventListener("click",function(e){
 
 topskinlayer[1].addEventListener("click",function(e){
   if(e.target.style.left="54%") {
-    topskinlayer[1].style.left="30.8%";
+    topskinlayer[1].style.cursor="pointer";
+    topskinlayer[1].style.left="30.8%";  
     topskinlayer[3].style.display = "block";
     document.getElementById("fenjie3").style.display="none";
   }

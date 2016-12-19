@@ -390,7 +390,7 @@ section {
   padding-top:22.3%;
   left: 30.8%;
   transition: all 2s ease;
-  cursor: pointer;
+  /*cursor: pointer;*/
 }
 #fenjie3 {
   display: none;
