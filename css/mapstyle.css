@@ -20,7 +20,7 @@
 
 }
 
-#clearfloat {
+.clearfloat {
   clear:both;
   width:50%;
   min-width: 650px;
