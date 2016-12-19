@@ -25,7 +25,7 @@ var maptooltip = d3.select("#maptooltip").attr("class", "maptooltip")
 
 var idLookup = d3.map();
 //chart tooltip
-var ttfh = 120;
+var ttfh = 160;
 var ttfw = 200;
 
 var margin = {top:20, bottom:30,left:40,right:35};
@@ -34,12 +34,13 @@ var tth = ttfh - margin.top - margin.bottom;
 var ttw = ttfw - margin.left - margin.right;
 
 var xScale = d3.time.scale().range([0,ttw]);
-var yScale = d3.scale.linear().range([tth,0]);
+var yScale = d3.scale.linear().range([tth,0]).domain([0,200]);
 var yAxis = d3.svg.axis()
    .scale(yScale)
    .orient("left")
-  //  .tickFormat(d3.format("s"))
-   .ticks(1)
+   .tickFormat(d3.format(",d"))
+   .ticks(2)
+  //  .tickValues([0,1,2,10,20,40,200])
    .tickPadding([1])
    .tickSize([0]);
 
@@ -176,6 +177,7 @@ function loaded(error, us, data) {
         years.forEach(function(y){
           if(d[y]){
             amountpy.push({
+              max: d.max,
               county_code: d["FIPStxt"],
               countyname : d["County_name"],
               year: y,
@@ -221,6 +223,17 @@ function loaded(error, us, data) {
           .attr("class", "static_year")
           .style("text-anchor", "end")
           .text(function(d) { return outputDate(parseDate(d[d.length - 1].year));});
+        //
+        // tooltipChart.append("text")
+        //   .attr("x", ttw + margin.bottom/2)
+        //   .attr("y",0)
+        //   .attr("class", "static_year")
+        //   .style("text-anchor", "end")
+        //   .text(function(d){
+        //     return d[0].max;
+        //
+        //   });
+
 
         tooltipChart.append("g")
             .call(yAxis)
@@ -248,6 +261,8 @@ function loaded(error, us, data) {
           if (data){
          maptooltip.select(".name").text(data.County_name);
          maptooltip.select(".val").text(data.number);
+
+
         } else {
         maptooltip.select(".name").text("No data for " + data.County_name);
         maptooltip.select(".val").text("NA");
